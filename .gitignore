@@ -1,0 +1,13 @@
+# Ignore SQLite database
+crypto.db
+
+# Ignore CSV outputs (optional if not needed in repo)
+data/processed/*.csv
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
