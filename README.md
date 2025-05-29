@@ -29,3 +29,6 @@ This is an end-to-end ETL (Extract, Transform, Load) project that collects live 
 
 ## 🗂️ Folder Structure
 
+![Crypto ETL Architecture](crypto_etl_architecture.png)
+
+
