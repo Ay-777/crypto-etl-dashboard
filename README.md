@@ -47,5 +47,12 @@ An interactive dashboard built with Streamlit to explore and visualize the crypt
 pip install -r requirements.txt
 streamlit run dashboard.py
 
+📄 **Preview Charts**
+
+- [📊 Bar Chart Preview](Streamlit%20Bar%20chart.pdf)
+- [📉 Log Scale Chart Preview](Streamlit%20Log%20Scale%20Bar.pdf)
+- [📈 Line Chart Preview](Streamlit%20Line%20chart.pdf)
+
+
 
 
