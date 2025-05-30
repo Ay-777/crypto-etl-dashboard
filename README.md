@@ -30,5 +30,22 @@ This is an end-to-end ETL (Extract, Transform, Load) project that collects live 
 ## 🗂️ Folder Structure
 
 ![Crypto ETL Architecture](crypto_etl_architecture.png)
+---
+
+## 📺 Streamlit Dashboard
+
+An interactive dashboard built with Streamlit to explore and visualize the crypto price data dynamically.
+
+### 🔍 Features
+- Filter by specific cryptocurrencies
+- Toggle between bar, line, and log-scale charts
+- View filtered data in an interactive table
+
+### ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run dashboard.py
+
 
 
