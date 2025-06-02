@@ -1,0 +1,32 @@
+2025-06-01 15:55:09,640 - INFO - \U0001f195 'crypto_data.csv' not found — creating a new file.
+2025-06-01 15:55:09,660 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-01 15:55:09,684 - INFO - \u2705 Data transformed and cleaned.
+2025-06-01 15:55:09,702 - INFO - \u2705 Data loaded into SQLite database.
+
+
+2025-06-01 15:55:53,647 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-01 15:55:53,661 - INFO - \u2705 Data transformed and cleaned.
+2025-06-01 15:55:53,679 - INFO - \u2705 Data loaded into SQLite database.
+2025-06-01 16:24:22,169 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-01 16:24:22,185 - INFO - \u2705 Data transformed and cleaned.
+2025-06-01 16:24:22,206 - INFO - \u2705 Data loaded into SQLite database.
+2025-06-01 16:25:09,089 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-01 16:25:09,102 - INFO - \u2705 Data transformed and cleaned.
+2025-06-01 16:25:09,103 - ERROR - ETL pipeline failed: name 'loads' is not defined
+2025-06-01 16:25:10,274 - INFO - \U0001f4e7 Alert email sent.
+2025-06-02 15:45:25,690 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-02 15:45:25,693 - ERROR - ETL pipeline failed: name 'transforms' is not defined
+2025-06-02 15:48:52,853 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-02 15:48:52,855 - ERROR - ETL pipeline failed: name 'transforms' is not defined
+2025-06-02 15:50:16,803 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-02 15:50:16,804 - ERROR - ETL pipeline failed: name 'transforms' is not defined
+2025-06-02 15:55:38,137 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-02 15:55:38,138 - ERROR - ETL pipeline failed: name 'transforms' is not defined
+2025-06-02 15:57:00,853 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-02 15:57:00,855 - ERROR - ETL pipeline failed: name 'transforms' is not defined
+2025-06-02 15:57:31,635 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-02 15:57:31,636 - ERROR - ETL pipeline failed: name 'transforms' is not defined
+2025-06-02 15:58:17,447 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-02 15:58:17,449 - ERROR - ETL pipeline failed: name 'transforms' is not defined
+2025-06-02 16:01:58,034 - INFO - \u2705 Data extracted and saved successfully.
+2025-06-02 16:01:58,036 - ERROR - ETL pipeline failed: name 'transforms' is not defined
